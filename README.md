@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @0532
+- 👋 Hi, I’m @0532 <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200'>
 - 👀 I’m interested in money
-- 🌱 I’m currently learning become a leek      <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200'>
-
+- 🌱 I’m currently learning become a leek     
 - 💞️ I’m looking to collaborate on A
 - 📫 How to reach me ...
 
