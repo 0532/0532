@@ -1,6 +1,5 @@
  <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200'>
-
-
+ 
 - 👋 Hi, I’m @0532
 - 👀 I’m interested in money
 - 🌱 I’m currently learning become a leek     
