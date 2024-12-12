@@ -1,3 +1,6 @@
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Mooli&pause=1000&color=7458CE&width=240&height=30&lines=Nice+To+Meet+You+!!!" alt="Typing SVG" /></p>
+
+ 
  <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200'>
  
 - 👋 Hi, I’m @0532
