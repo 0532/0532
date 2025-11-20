@@ -5,7 +5,7 @@
  
 - 👋 Hi, I’m @wanglichao
 - 👀 I’m interested in money
-- 🌱 I’m currently learning become a leek     
+- 🌱 I’m currently learning to become a leek     
 - 💞️ I’m looking to collaborate on A-STOCK
 - 📫 How to reach me ...
 
